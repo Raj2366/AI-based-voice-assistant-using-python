@@ -1,2 +1,2 @@
 # AI-based-voice-assistant-using-python
-AI voice assistant using python with open ai connectivity
+AI voice assistant using python with latest open ai api connectivity
